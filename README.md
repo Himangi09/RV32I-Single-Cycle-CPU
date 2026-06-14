@@ -227,7 +227,5 @@ RV32I-Single-Cycle-CPU/
 
 ## Author
 
-## Author
-
 Developed as a Digital Design project to demonstrate RISC-V CPU architecture, RTL development, datapath/control integration, and functional verification using Verilog HDL.
 ---
